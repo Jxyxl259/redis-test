@@ -52,7 +52,7 @@
         <dependency>
             <groupId>org.springframework.data</groupId>
             <artifactId>spring-data-commons</artifactId>
-            <versiong>1.13.12.RELEASE</versiong>
+            <version>1.13.12.RELEASE</version>
         </dependency>
         <!-- Spring end -->
 
@@ -112,7 +112,7 @@
 
 
     <properties>
-        <spring.version>4.3.15.RELEASE</spring.version>
+        <spring.version>4.3.18.RELEASE</spring.version>
     </properties>
 
 
